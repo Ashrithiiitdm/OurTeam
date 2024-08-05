@@ -1,31 +1,31 @@
 const contacts = [
   {
     id: "1",
-    name: "Dr Umesh Vasu",
+    name: "Member1",
     position: "Founder & CEO",
     img: "https://blackhistorywall.wordpress.com/wp-content/uploads/2011/02/picture-device-independent-bitmap-117.jpg",
-    email: "ashrithgande",
+    email: "email1",
   },
   {
     id: "2",
-    name: "Dr Shanmugakumar M",
+    name: "Member 2",
     position: "Founder",
     img: "https://blackhistorywall.wordpress.com/wp-content/uploads/2011/02/picture-device-independent-bitmap-117.jpg",
-    email: "ashrithgande",
+    email: "email2",
   },
   {
     id: "3",
-    name: "Mr Vaisakh V",
+    name: "Member 3",
     position: "Product development associate",
     img: "https://blackhistorywall.wordpress.com/wp-content/uploads/2011/02/picture-device-independent-bitmap-117.jpg",
-    email: "ashrithgande",
+    email: "email3",
   },
   {
     id: "4",
-    name: "Dr Narendren S",
+    name: "Member 4",
     position: "R&D Associate PhD ",
     img: "https://blackhistorywall.wordpress.com/wp-content/uploads/2011/02/picture-device-independent-bitmap-117.jpg",
-    email: "ashrithgande",
+    email: "aemail4",
   },
 ];
 
