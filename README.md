@@ -1,2 +1,2 @@
 # OurTeam
-Created with CodeSandbox
+Code for Our Team web-page
