@@ -10,4 +10,4 @@ For viewing the webpage please use [**codesandbox.io**](https://codesandbox.io).
     ```bash
     yarn start
     ```
-4. Then you can see the preview option on the bottom corner.
+4. Then you can see the preview option on the bottom corner or type localhost:3000 in your default web-browser.
