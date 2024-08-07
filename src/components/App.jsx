@@ -8,17 +8,18 @@ function App() {
   return (
     <div>
       <Header />
-      {contacts.map((contact) => {
-        return (
-          <Cards
-            name={contact.name}
-            img={contact.img}
-            position={contact.position}
-            email={contact.email}
-          />
-        );
-      })}
-
+      <div id="card-container">
+        {contacts.map((contact) => {
+          return (
+            <Cards
+              name={contact.name}
+              img={contact.img}
+              position={contact.position}
+              email={contact.email}
+            />
+          );
+        })}
+      </div>
       <Footer />
     </div>
   );
